@@ -1,10 +1,8 @@
 ---
-id: 18
 title: About
 date: '2016-11-09T20:47:05-05:00'
 author: 'Daniel Pardes'
 layout: page
-guid: 'http://themovenorth.com/?page_id=18'
 ---
 
 TheMoveNorth.com was purchased as a joke. I was joking about moving to Canada if Donald Trump won the 2016 election.
